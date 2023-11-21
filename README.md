@@ -1,1 +1,1 @@
-visit: https://dice-game-pb7q.onrender.com/
+App link:  https://dice-game-pb7q.onrender.com/
